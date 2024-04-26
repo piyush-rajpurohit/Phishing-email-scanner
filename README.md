@@ -20,6 +20,19 @@ Phishing Email Scanner is a Python application that allows users to fetch emails
      2. Under "Security," select "App passwords."
      3. Generate an App Password for the application.
      4. Use this App Password instead of your regular Gmail password in the application.
+    
+**3. Use Your Own VirusTotal API Key**
+   - To use your own VirusTotal API key for scanning emails, follow these steps:
+     1. Create an account on the [VirusTotal website](https://www.virustotal.com/).
+     2. Once logged in, navigate to your account settings to find your API key.
+     3. Copy your API key.
+     4. Open the [`script.py`](script.py) file in your project directory using a text editor.
+     5. Locate the line `VirusTotal_API_Key = "paste your api key here"` in the [`script.py`](script.py) file.
+     6. Replace `"paste your api key here"` with your actual VirusTotal API key.
+     7. Save the changes to the [`script.py`](script.py) file.
+
+With your own VirusTotal API key added to the [`script.py`](script.py) file, the application will use your key for scanning emails for phishing URLs.
+
      
 
 ## Installation
