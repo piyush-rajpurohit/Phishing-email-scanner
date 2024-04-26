@@ -42,19 +42,14 @@ Before using Phishing Email Scanner, ensure you have the following installed:
     ```bash
     python main.py
     ```
-
-4. **Enter your Gmail credentials**:
+**(Note: Enter your Gmail credentials)**
    - Ensure that two-factor authentication is disabled for your Gmail account, as the application currently does not support it.
    - If you have two-factor authentication enabled, you can create an "App Password" to use instead:
      1. Go to your Google Account settings.
      2. Under "Security," select "App passwords."
      3. Generate an App Password for the application.
      4. Use this App Password instead of your regular Gmail password in the application.
-
-5. Click "Fetch Email" to retrieve emails.
-6. Select an email and click "Scan Email" to check for phishing URLs.
-7. View the scan results in the GUI.
-
+        
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
