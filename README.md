@@ -23,7 +23,7 @@ Before using Phishing Email Scanner, ensure you have the following installed:
 - `virustotal_python` package
 - `sqlite3` package
 
-## Usage
+## Installation
 
 1. Clone the repository:
 
