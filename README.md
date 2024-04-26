@@ -9,20 +9,6 @@ Phishing Email Scanner is a Python application that allows users to fetch emails
 - **Database Storage**: Store insecure emails in a SQLite database for future reference.
 - **User-Friendly Interface**: GUI built with Tkinter for ease of use.
 
-## Prerequisites
-
-Before using Phishing Email Scanner, ensure you have the following installed:
-
-- Python 3.x
-- Tkinter (`tkinter` package)
-- `tkcalendar` package
-- `imaplib` package
-- `email` package
-- `bs4` (BeautifulSoup) package
-- `quopri` package
-- `virustotal_python` package
-- `sqlite3` package
-
 ## Installation
 
 1. Clone the repository:
@@ -30,6 +16,10 @@ Before using Phishing Email Scanner, ensure you have the following installed:
     ```bash
     git clone https://github.com/your-username/phishing-email-scanner.git
     ```
+    
+    **(Note: python should be preinstalled)**
+   - Ensure you have Python 3.x installed on your system. If not, you can download and install Python from the official [Python website](https://www.python.org/downloads/).
+     
 
 2. Install the required packages:
 
