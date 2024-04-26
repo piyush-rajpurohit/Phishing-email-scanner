@@ -24,7 +24,7 @@ Phishing Email Scanner is a Python application that allows users to fetch emails
 2. Install the required packages:
 
     ```bash
-    pip install -r requirements.txt
+    pip install beautifulsoup4 virustotal-python 
     ```
 
 3. Run the application:
