@@ -40,7 +40,7 @@ With your own VirusTotal API key added to the [`script.py`](script.py) file, the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/phishing-email-scanner.git
+    git clone https://github.com/piyush-rajpurohit/Phishing-email-scanner.git
     ```
     
 2. Install the required packages:
