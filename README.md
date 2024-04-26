@@ -13,7 +13,7 @@ Phishing Email Scanner is a Python application that allows users to fetch emails
 **1. python should be preinstalled**
    - Ensure you have Python 3.x installed on your system. If not, you can download and install Python from the official [Python website](https://www.python.org/downloads/).
 
-**2. Enter your Gmail credentials**
+**2. If Gmail 2FA is enabled**
    - Ensure that two-factor authentication is disabled for your Gmail account, as the application currently does not support it.
    - If you have two-factor authentication enabled, you can create an "App Password" to use instead:
      1. Go to your Google Account settings.
