@@ -123,5 +123,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credit
 **VirusTotal API Attribution:**
 
-This project utilizes the VirusTotal API for scanning URLs in Email. For more information about the VirusTotal API and its terms of use, please visit [VirusTotal](https://www.virustotal.com/).
+This project utilizes the VirusTotal API for scanning URLs in Email. For more information about the VirusTotal API and its terms of use, please visit [VirusTotal's website](https://www.virustotal.com/).
 
