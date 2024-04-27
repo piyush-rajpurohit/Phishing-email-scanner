@@ -58,7 +58,7 @@ if __name__ == "__main__":
         #print("Unique URLs:", unique_urls)
 
         # Scan URLs using VirusTotal
-        VirusTotal_API_Key = "215118761695b8e59f718a5296aaa3340066c595b123b73102b93454ac88e89c"
+        VirusTotal_API_Key = "paste your api key here"
         scan_urls_with_virustotal(unique_urls, VirusTotal_API_Key)
 
     except Exception as e:
